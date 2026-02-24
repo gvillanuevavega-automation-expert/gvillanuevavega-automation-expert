@@ -59,9 +59,9 @@ Client has a problem              →    I ship a working solution
 
 | Project | What it solves | Stack |
 |---|---|---|
-| 🏗️ Coming soon | Excel bid workflow automation | Python + openpyxl |
-| 🏗️ Coming soon | Real estate data cleanup pipeline | Python + pandas |
-| 🏗️ Coming soon | n8n AI agent lead pipeline | n8n + OpenAI |
+| [📊 Google Sheets Automation](https://github.com/gvillanuevavega-automation-expert/demo-google-sheets-automation) | Auto-format, alerts, summary reports, deduplication | Google Apps Script |
+| 🏗️ In progress | Excel bid workflow automation | Python + openpyxl |
+| 🏗️ In progress | n8n AI agent lead pipeline | n8n + OpenAI |
 
 ---
 
